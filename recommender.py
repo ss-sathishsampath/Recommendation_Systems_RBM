@@ -3,6 +3,9 @@
 Created on Sun Jun 24 02:15:02 2018
 
 @author: Sathish Sampath
+
+Developed as part of Cognitive Class - Deep Learning with Tensorflow class
+
 """
 
 #Tensorflow library. Used to implement machine learning models
